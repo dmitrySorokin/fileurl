@@ -1,0 +1,8 @@
+{
+    "armv71": "https://yandex-search.s3.yandex.net/mobileyandex-android.apk",
+    "i686": "undefined",
+    "arch64": "undefined",
+    "x86_64": "undefined",
+    "mips": "undefined",
+    "mips64": "undefined"
+}
